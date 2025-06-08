@@ -25,7 +25,7 @@ A simple, production-ready Prometheus monitoring setup using Docker Compose with
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/prometheus-docker-setup.git
+git clone https://github.com/Lee-Robinson/prometheus-docker-setup.git
 cd prometheus-docker-setup
 
 # Deploy the stack
